@@ -1,0 +1,322 @@
+0000.001 (0) Opened log file at time: Wed, 24 Apr 2024 16:17:24 +0000 on http://localhost/blog-website
+0000.004 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.24.2 WP: 6.5.2 PHP: 8.0.30 (apache2handler, Windows NT DESKTOP-02RT9FR 10.0 build 19045 (Windows 10) AMD64) MySQL: 10.4.32-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 59.8M | 62M) multisite: N openssl: OpenSSL 1.1.1t  7 Feb 2023 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.007 (0) Free space on disk containing Updraft's temporary directory: 147643.9 MB
+0000.015 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.022 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.038 (0) Set semaphore last lock (fd) time to 2024-04-24 16:17:24
+0000.040 (0) Semaphore lock (fd) complete
+0000.050 (0) Backup run: resumption=0, nonce=442430f16d7d, file_nonce=442430f16d7d begun at=1713975444 (0s ago), job type=backup
+0000.054 (0) Scheduling a resumption (1) after 300 seconds (1713975744) in case this run gets aborted
+0000.081 (0) Checking if we have a zip executable available
+0000.087 (0) Creation of backups of directories: beginning
+0000.098 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0005.082 (0) Total entities for the zip file: 1151 directories, 5257 files (0 skipped as non-modified), 76.4 MB
+0005.094 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0005.331 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 100 files added (on-disk size: 215.1 KB)
+0005.417 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 200 files added (on-disk size: 215.1 KB)
+0005.505 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 300 files added (on-disk size: 215.1 KB)
+0005.593 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 400 files added (on-disk size: 215.1 KB)
+0005.693 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 500 files added (on-disk size: 215.1 KB)
+0005.795 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 600 files added (on-disk size: 215.1 KB)
+0005.900 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 700 files added (on-disk size: 215.1 KB)
+0006.009 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 800 files added (on-disk size: 215.1 KB)
+0006.120 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 900 files added (on-disk size: 215.1 KB)
+0006.228 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 1000 files added (on-disk size: 215.1 KB)
+0006.233 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (19.1 MB, 5257 files batched, 1001 (1002) added so far); re-opening (prior size: 215.1 KB)
+0009.919 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 1100 files added (on-disk size: 5286.8 KB)
+0010.053 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 1200 files added (on-disk size: 5286.8 KB)
+0010.160 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 1300 files added (on-disk size: 5286.8 KB)
+0010.266 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 1400 files added (on-disk size: 5286.8 KB)
+0010.387 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 1500 files added (on-disk size: 5286.8 KB)
+0010.504 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 1600 files added (on-disk size: 5286.8 KB)
+0010.614 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 1700 files added (on-disk size: 5286.8 KB)
+0010.726 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 1800 files added (on-disk size: 5286.8 KB)
+0010.829 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 1900 files added (on-disk size: 5286.8 KB)
+0010.948 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 2000 files added (on-disk size: 5286.8 KB)
+0010.955 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (15.2 MB, 5257 files batched, 1001 (2003) added so far); re-opening (prior size: 5286.8 KB)
+0013.344 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 2100 files added (on-disk size: 13468 KB)
+0013.535 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 2200 files added (on-disk size: 13468 KB)
+0013.621 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 2300 files added (on-disk size: 13468 KB)
+0013.713 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 2400 files added (on-disk size: 13468 KB)
+0013.803 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 2500 files added (on-disk size: 13468 KB)
+0013.894 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 2600 files added (on-disk size: 13468 KB)
+0013.987 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 2700 files added (on-disk size: 13468 KB)
+0014.080 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 2800 files added (on-disk size: 13468 KB)
+0014.174 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 2900 files added (on-disk size: 13468 KB)
+0014.278 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 3000 files added (on-disk size: 13468 KB)
+0014.285 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (9.6 MB, 5257 files batched, 1001 (3004) added so far); re-opening (prior size: 13468 KB)
+0017.625 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 3100 files added (on-disk size: 17155.4 KB)
+0017.778 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 3200 files added (on-disk size: 17155.4 KB)
+0017.910 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 3300 files added (on-disk size: 17155.4 KB)
+0018.146 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 3400 files added (on-disk size: 17155.4 KB)
+0018.284 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 3500 files added (on-disk size: 17155.4 KB)
+0018.449 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 3600 files added (on-disk size: 17155.4 KB)
+0018.589 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 3700 files added (on-disk size: 17155.4 KB)
+0018.694 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 3800 files added (on-disk size: 17155.4 KB)
+0018.792 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 3900 files added (on-disk size: 17155.4 KB)
+0018.877 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 4000 files added (on-disk size: 17155.4 KB)
+0018.907 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (20.5 MB, 5257 files batched, 1001 (4005) added so far); re-opening (prior size: 17155.4 KB)
+0024.221 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 4100 files added (on-disk size: 23615.2 KB)
+0024.339 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 4200 files added (on-disk size: 23615.2 KB)
+0024.440 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 4300 files added (on-disk size: 23615.2 KB)
+0024.559 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 4400 files added (on-disk size: 23615.2 KB)
+0024.677 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 4500 files added (on-disk size: 23615.2 KB)
+0024.804 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 4600 files added (on-disk size: 23615.2 KB)
+0024.924 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 4700 files added (on-disk size: 23615.2 KB)
+0025.029 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 4800 files added (on-disk size: 23615.2 KB)
+0025.153 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 4900 files added (on-disk size: 23615.2 KB)
+0025.262 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 5000 files added (on-disk size: 23615.2 KB)
+0025.271 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (11.6 MB, 5257 files batched, 1001 (5006) added so far); re-opening (prior size: 23615.2 KB)
+0029.274 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 5100 files added (on-disk size: 27075.4 KB)
+0029.376 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.tmp: 5200 files added (on-disk size: 27075.4 KB)
+0030.452 (0) Creating zip file manifest (backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.list-temp.tmp)
+0030.504 (0) Successfully created zip file manifest (size: 451433)
+0031.084 (0) Created plugins zip (0) - 27412.9 KB in 31 s (885 KB/s) (sha1: bd6e14e32657845b93428db5e91a6f9b3de04b36, sha256: c66366092919031dadd07cd02e5d53eee36e89c358704d6061436baaaaa8b04e)
+0031.104 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0031.106 (0) No remote despatch: user chose no remote backup service
+0031.109 (0) Recording as successfully uploaded: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip
+0031.117 (0) Deleting zip manifest (backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip.list.tmp)
+0031.123 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0031.127 (0) Number of backup sets in history: 1; groups (db): 1
+0031.129 (0) Examining (for databases) backup set with group_id=0, nonce=d24953e1aeef, datestamp=1713974307 (Apr 24 2024 15:58:27)
+0031.132 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0031.135 (0) Number of backup sets in history: 1; groups (files): 1
+0031.137 (0) Examining (for files) backup set with nonce=d24953e1aeef, datestamp=1713974307 (Apr 24 2024 15:58:27)
+0031.137 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0031.140 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0031.156 (0) Beginning creation of dump of themes (split every: 400 MB)
+0031.545 (0) Total entities for the zip file: 93 directories, 483 files (0 skipped as non-modified), 15.4 MB
+0031.620 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0031.701 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0031.770 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0031.846 (0) Zip: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0033.875 (0) Creating zip file manifest (backup_2024-04-24-1617_BlogWebsite_442430f16d7d-themes.zip.list-temp.tmp)
+0033.883 (0) Successfully created zip file manifest (size: 32686)
+0034.283 (0) Created themes zip (0) - 12558.2 KB in 3.1 s (4030.7 KB/s) (sha1: c5e34e8811fc6a9834099320cbab022bcbc3d22a, sha256: 6bf91c6435ca5a7339624a0662b1985a127303ac4cbed353097c737d58610e26)
+0034.295 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0034.297 (0) No remote despatch: user chose no remote backup service
+0034.300 (0) Recording as successfully uploaded: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-themes.zip
+0034.304 (0) Deleting zip manifest (backup_2024-04-24-1617_BlogWebsite_442430f16d7d-themes.zip.list.tmp)
+0034.310 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0034.313 (0) Number of backup sets in history: 1; groups (db): 1
+0034.315 (0) Examining (for databases) backup set with group_id=0, nonce=d24953e1aeef, datestamp=1713974307 (Apr 24 2024 15:58:27)
+0034.315 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0034.318 (0) Number of backup sets in history: 1; groups (files): 1
+0034.320 (0) Examining (for files) backup set with nonce=d24953e1aeef, datestamp=1713974307 (Apr 24 2024 15:58:27)
+0034.320 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0034.322 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0034.338 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0034.340 (0) Looking for candidates to backup in: C:\xampp\htdocs\blog-website/wp-content/uploads
+0034.342 (0) finding files: 2024: adding to list (1)
+0034.344 (0) finding files: rmp-menu: adding to list (2)
+0034.346 (0) finding files: ultimatemember: adding to list (3)
+0034.349 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0034.379 (0) Total entities for the zip file: 6 directories, 13 files (0 skipped as non-modified), 0.8 MB
+0034.471 (0) Creating zip file manifest (backup_2024-04-24-1617_BlogWebsite_442430f16d7d-uploads.zip.list-temp.tmp)
+0034.476 (0) Successfully created zip file manifest (size: 950)
+0034.517 (0) Created uploads zip (0) - 851.6 KB in 0.2 s (5467.3 KB/s) (sha1: b951ba3f96166b0dcecfb12b55274f789be74ace, sha256: 3b69c97b8250d4a03bb3944589d27e8622dfd79b5aa4ca51f5874cf6911bcfc4)
+0034.529 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0034.532 (0) No remote despatch: user chose no remote backup service
+0034.535 (0) Recording as successfully uploaded: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-uploads.zip
+0034.539 (0) Deleting zip manifest (backup_2024-04-24-1617_BlogWebsite_442430f16d7d-uploads.zip.list.tmp)
+0034.544 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0034.547 (0) Number of backup sets in history: 1; groups (db): 1
+0034.549 (0) Examining (for databases) backup set with group_id=0, nonce=d24953e1aeef, datestamp=1713974307 (Apr 24 2024 15:58:27)
+0034.549 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0034.551 (0) Number of backup sets in history: 1; groups (files): 1
+0034.553 (0) Examining (for files) backup set with nonce=d24953e1aeef, datestamp=1713974307 (Apr 24 2024 15:58:27)
+0034.553 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0034.555 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0034.566 (0) No backup of mu-plugins: excluded by user's options
+0034.569 (0) Beginning backup of other directories found in the content directory (index: 0)
+0034.572 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0034.574 (0) Looking for candidates to backup in: C:\xampp\htdocs\blog-website/wp-content
+0034.576 (0) finding files: index.php: adding to list (1)
+0034.578 (0) finding files: languages: adding to list (2)
+0034.579 (0) finding files: plugins: skipping: this is the plugins directory
+0034.581 (0) finding files: themes: skipping: this is the themes directory
+0034.583 (0) finding files: updraft: skipping: this is the updraft directory
+0034.585 (0) finding files: upgrade: skipping: excluded by options
+0034.587 (0) finding files: uploads: skipping: this is the uploads directory
+0034.601 (0) Total entities for the zip file: 2 directories, 1 files (0 skipped as non-modified), 0 MB
+0034.658 (0) Creating zip file manifest (backup_2024-04-24-1617_BlogWebsite_442430f16d7d-others.zip.list-temp.tmp)
+0034.662 (0) Successfully created zip file manifest (size: 43)
+0034.677 (0) Created others zip (0) - 0.3 KB in 0.1 s (4.2 KB/s) (sha1: ba63e450cf8df8cdab5416325410bb42b0279764, sha256: e73ad8f06456dbc5e0e39cc4c0851e6a458c93ac494f98d3bbc490571451a333)
+0034.688 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0034.690 (0) No remote despatch: user chose no remote backup service
+0034.692 (0) Recording as successfully uploaded: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-others.zip
+0034.696 (0) Deleting zip manifest (backup_2024-04-24-1617_BlogWebsite_442430f16d7d-others.zip.list.tmp)
+0034.701 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0034.704 (0) Number of backup sets in history: 1; groups (db): 1
+0034.706 (0) Examining (for databases) backup set with group_id=0, nonce=d24953e1aeef, datestamp=1713974307 (Apr 24 2024 15:58:27)
+0034.708 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0034.709 (0) Number of backup sets in history: 1; groups (files): 1
+0034.711 (0) Examining (for files) backup set with nonce=d24953e1aeef, datestamp=1713974307 (Apr 24 2024 15:58:27)
+0034.711 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0034.713 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0034.730 (0) Saving backup status to database (elements: 8)
+0034.738 (0) Beginning creation of database dump (WordPress DB)
+0034.741 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0034.816 (0) Table blog_options: Total expected rows (via COUNT): 262
+0034.818 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0034.988 (0) Table blog_options: Rows added in this batch (next record: 608): 257 (uncompressed bytes in this segment=1187279) in 0.22 seconds
+0035.008 (0) Table blog_options: finishing file(s) (2, 302.2 KB)
+0035.054 (0) Table blog_users: Total expected rows (via COUNT): 1
+0035.057 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0035.062 (0) Table blog_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1178) in 0.04 seconds
+0035.073 (0) Table blog_users: finishing file(s) (2, 0.6 KB)
+0035.144 (0) Table blog_usermeta: Total expected rows (via COUNT): 33
+0035.147 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0035.154 (0) Table blog_usermeta: Rows added in this batch (next record: 37): 33 (uncompressed bytes in this segment=3675) in 0.07 seconds
+0035.173 (0) Table blog_usermeta: finishing file(s) (2, 1.7 KB)
+0035.211 (0) Table blog_commentmeta: Total expected rows (via COUNT): 0
+0035.218 (0) Table blog_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=646) in 0.04 seconds
+0035.237 (0) Table blog_commentmeta: finishing file(s) (2, 0.4 KB)
+0035.270 (0) Table blog_comments: Total expected rows (via COUNT): 2
+0035.273 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0035.280 (0) Table blog_comments: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=2182) in 0.03 seconds
+0035.295 (0) Table blog_comments: finishing file(s) (2, 0.9 KB)
+0035.332 (0) Table blog_links: Total expected rows (via COUNT): 0
+0035.339 (0) Table blog_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1039) in 0.03 seconds
+0035.352 (0) Table blog_links: finishing file(s) (2, 0.5 KB)
+0035.382 (0) Table blog_postmeta: Total expected rows (via COUNT): 401
+0035.384 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0035.396 (0) Table blog_postmeta: Rows added in this batch (next record: 481): 401 (uncompressed bytes in this segment=48234) in 0.04 seconds
+0035.418 (0) Table blog_postmeta: finishing file(s) (2, 8.3 KB)
+0035.458 (0) Table blog_posts: Total expected rows (via COUNT): 112
+0035.460 (0) Table is relatively small; fetch_rows will thus be: 200 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0035.476 (0) Table blog_posts: Rows added in this batch (next record: 124): 112 (uncompressed bytes in this segment=85991) in 0.05 seconds
+0035.498 (0) Table blog_posts: finishing file(s) (2, 11.2 KB)
+0035.531 (0) Table blog_term_relationships: Total expected rows (approximate): 31
+0035.540 (0) Table blog_term_relationships: Rows added in this batch (next record: 100000): 32 (uncompressed bytes in this segment=1134) in 0.03 seconds
+0035.558 (0) Table blog_term_relationships: finishing file(s) (2, 0.5 KB)
+0035.615 (0) Table blog_term_taxonomy: Total expected rows (via COUNT): 14
+0035.617 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0035.623 (0) Table blog_term_taxonomy: Rows added in this batch (next record: 14): 14 (uncompressed bytes in this segment=1296) in 0.06 seconds
+0035.645 (0) Table blog_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0035.683 (0) Table blog_termmeta: Total expected rows (via COUNT): 0
+0035.688 (0) Table blog_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=619) in 0.03 seconds
+0035.704 (0) Table blog_termmeta: finishing file(s) (2, 0.4 KB)
+0035.734 (0) Table blog_terms: Total expected rows (via COUNT): 14
+0035.737 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0035.743 (0) Table blog_terms: Rows added in this batch (next record: 14): 14 (uncompressed bytes in this segment=1016) in 0.03 seconds
+0035.793 (0) Table blog_terms: finishing file(s) (2, 0.5 KB)
+0035.846 (0) Table blog_nextend2_image_storage: Total expected rows (via COUNT): 5
+0035.849 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0035.853 (0) Table blog_nextend2_image_storage: Rows added in this batch (next record: 5): 5 (uncompressed bytes in this segment=1702) in 0.03 seconds
+0035.871 (0) Table blog_nextend2_image_storage: finishing file(s) (2, 0.8 KB)
+0035.905 (0) Table blog_nextend2_section_storage: Total expected rows (via COUNT): 1
+0035.908 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0035.912 (0) Table blog_nextend2_section_storage: Rows added in this batch (next record: 10000): 1 (uncompressed bytes in this segment=1199) in 0.03 seconds
+0035.927 (0) Table blog_nextend2_section_storage: finishing file(s) (2, 0.6 KB)
+0035.962 (0) Table blog_nextend2_smartslider3_generators: Total expected rows (via COUNT): 0
+0035.968 (0) Table blog_nextend2_smartslider3_generators: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=637) in 0.03 seconds
+0035.984 (0) Table blog_nextend2_smartslider3_generators: finishing file(s) (2, 0.4 KB)
+0036.016 (0) Table blog_nextend2_smartslider3_sliders: Total expected rows (via COUNT): 3
+0036.018 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0036.026 (0) Table blog_nextend2_smartslider3_sliders: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=29795) in 0.03 seconds
+0036.039 (0) Table blog_nextend2_smartslider3_sliders: finishing file(s) (2, 4.4 KB)
+0036.065 (0) Table blog_nextend2_smartslider3_sliders_xref: Total expected rows (approximate): 2
+0036.072 (0) Table blog_nextend2_smartslider3_sliders_xref: Rows added in this batch (next record: 1000): 2 (uncompressed bytes in this segment=756) in 0.03 seconds
+0036.087 (0) Table blog_nextend2_smartslider3_sliders_xref: finishing file(s) (2, 0.4 KB)
+0036.124 (0) Table blog_nextend2_smartslider3_slides: Total expected rows (via COUNT): 7
+0036.126 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0036.136 (0) Table blog_nextend2_smartslider3_slides: Rows added in this batch (next record: 7): 7 (uncompressed bytes in this segment=32432) in 0.04 seconds
+0036.153 (0) Table blog_nextend2_smartslider3_slides: finishing file(s) (2, 3.1 KB)
+0036.229 (0) Table blog_um_metadata: Total expected rows (via COUNT): 0
+0036.239 (0) Table blog_um_metadata: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=681) in 0.08 seconds
+0036.268 (0) Table blog_um_metadata: finishing file(s) (2, 0.4 KB)
+0036.311 (0) Table blog_wprus_logs: Total expected rows (via COUNT): 0
+0036.314 (0) Table blog_wprus_logs: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=565) in 0.03 seconds
+0036.332 (0) Table blog_wprus_logs: finishing file(s) (2, 0.4 KB)
+0036.368 (0) Table blog_wprus_nonce: Total expected rows (via COUNT): 0
+0036.371 (0) Table blog_wprus_nonce: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=507) in 0.03 seconds
+0036.388 (0) Table blog_wprus_nonce: finishing file(s) (2, 0.3 KB)
+0036.419 (0) Table blog_wps_st_options: Total expected rows (via COUNT): 1
+0036.421 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0036.428 (0) Table blog_wps_st_options: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1291) in 0.03 seconds
+0036.444 (0) Table blog_wps_st_options: finishing file(s) (2, 0.6 KB)
+0036.475 (0) Table blog_wps_statistic: Total expected rows (approximate): 8
+0036.483 (0) Table blog_wps_statistic: Rows added in this batch (next record: 1000): 8 (uncompressed bytes in this segment=877) in 0.03 seconds
+0036.501 (0) Table blog_wps_statistic: finishing file(s) (2, 0.5 KB)
+0036.503 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\xampp\htdocs\blog-website/wp-content/updraft/backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db.gz (line 1925, C:\xampp\htdocs\blog-website\wp-content\plugins\updraftplus\backup.php)
+0036.508 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_options.table.tmpr609.gz (1/23/fopen): adding to final database dump
+0036.533 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_options.table.gz (2/23/fopen): adding to final database dump
+0036.535 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_users.table.tmpr2.gz (3/23/fopen): adding to final database dump
+0036.537 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_users.table.gz (4/23/fopen): adding to final database dump
+0036.540 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_usermeta.table.tmpr38.gz (5/23/fopen): adding to final database dump
+0036.542 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_usermeta.table.gz (6/23/fopen): adding to final database dump
+0036.544 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_commentmeta.table.tmpr0.gz (7/23/fopen): adding to final database dump
+0036.547 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_commentmeta.table.gz (8/23/fopen): adding to final database dump
+0036.550 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_comments.table.tmpr3.gz (9/23/fopen): adding to final database dump
+0036.552 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_comments.table.gz (10/23/fopen): adding to final database dump
+0036.554 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_links.table.tmpr0.gz (11/23/fopen): adding to final database dump
+0036.557 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_links.table.gz (12/23/fopen): adding to final database dump
+0036.559 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_postmeta.table.tmpr482.gz (13/23/fopen): adding to final database dump
+0036.562 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_postmeta.table.gz (14/23/fopen): adding to final database dump
+0036.566 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_posts.table.tmpr125.gz (15/23/fopen): adding to final database dump
+0036.569 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_posts.table.gz (16/23/fopen): adding to final database dump
+0036.572 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_term_relationships.table.tmpr100001.gz (17/23/fopen): adding to final database dump
+0036.574 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_term_relationships.table.gz (18/23/fopen): adding to final database dump
+0036.577 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_term_taxonomy.table.tmpr15.gz (19/23/fopen): adding to final database dump
+0036.579 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_term_taxonomy.table.gz (20/23/fopen): adding to final database dump
+0036.583 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_termmeta.table.tmpr0.gz (21/23/fopen): adding to final database dump
+0036.585 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_termmeta.table.gz (22/23/fopen): adding to final database dump
+0036.587 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_terms.table.tmpr15.gz (23/23/fopen): adding to final database dump
+0036.590 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_terms.table.gz (24/23/fopen): adding to final database dump
+0036.592 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_nextend2_image_storage.table.tmpr6.gz (25/23/fopen): adding to final database dump
+0036.595 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_nextend2_image_storage.table.gz (26/23/fopen): adding to final database dump
+0036.598 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_nextend2_section_storage.table.tmpr10001.gz (27/23/fopen): adding to final database dump
+0036.600 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_nextend2_section_storage.table.gz (28/23/fopen): adding to final database dump
+0036.603 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_nextend2_smartslider3_generators.table.tmpr0.gz (29/23/fopen): adding to final database dump
+0036.605 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_nextend2_smartslider3_generators.table.gz (30/23/fopen): adding to final database dump
+0036.607 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_nextend2_smartslider3_sliders.table.tmpr4.gz (31/23/fopen): adding to final database dump
+0036.610 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_nextend2_smartslider3_sliders.table.gz (32/23/fopen): adding to final database dump
+0036.612 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_nextend2_smartslider3_sliders_xref.table.tmpr1001.gz (33/23/fopen): adding to final database dump
+0036.615 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_nextend2_smartslider3_sliders_xref.table.gz (34/23/fopen): adding to final database dump
+0036.618 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_nextend2_smartslider3_slides.table.tmpr8.gz (35/23/fopen): adding to final database dump
+0036.620 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_nextend2_smartslider3_slides.table.gz (36/23/fopen): adding to final database dump
+0036.622 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_um_metadata.table.tmpr0.gz (37/23/fopen): adding to final database dump
+0036.625 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_um_metadata.table.gz (38/23/fopen): adding to final database dump
+0036.628 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_wprus_logs.table.tmpr0.gz (39/23/fopen): adding to final database dump
+0036.631 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_wprus_logs.table.gz (40/23/fopen): adding to final database dump
+0036.635 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_wprus_nonce.table.tmpr0.gz (41/23/fopen): adding to final database dump
+0036.637 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_wprus_nonce.table.gz (42/23/fopen): adding to final database dump
+0036.640 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_wps_st_options.table.tmpr2.gz (43/23/fopen): adding to final database dump
+0036.643 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_wps_st_options.table.gz (44/23/fopen): adding to final database dump
+0036.645 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_wps_statistic.table.tmpr1001.gz (45/23/fopen): adding to final database dump
+0036.649 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db-table-blog_wps_statistic.table.gz (46/23/fopen): adding to final database dump
+0036.727 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db.gz: finished writing out complete database file (339.4 KB)
+0036.766 (0) Total database tables backed up: 23 (backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db.gz, size: 347676, sha1: 4fa16e02bf8cb7ce9e386c6f8c4b7162228a2735, sha256: f8e0c7094b33fa8a7298788cebbfabb801b3a5a34895652d50172490ba9a098a)
+0036.778 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-plugins.zip: plugins: This file has already been successfully uploaded
+0036.780 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-themes.zip: themes: This file has already been successfully uploaded
+0036.782 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-uploads.zip: uploads: This file has already been successfully uploaded
+0036.784 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-others.zip: others: This file has already been successfully uploaded
+0036.786 (0) backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db.gz: db: This file has not yet been successfully uploaded: will queue
+0036.787 (0) Saving backup history. Total backup size: 40.2 MB
+0036.794 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0036.800 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0036.802 (0) No remote despatch: user chose no remote backup service
+0036.804 (0) Recording as successfully uploaded: backup_2024-04-24-1617_BlogWebsite_442430f16d7d-db.gz
+0036.811 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0036.814 (0) Number of backup sets in history: 2; groups (db): 1
+0036.816 (0) Examining (for databases) backup set with group_id=0, nonce=442430f16d7d, datestamp=1713975444 (Apr 24 2024 16:17:24)
+0036.816 (0) This backup set is the backup set just made, so will not be deleted.
+0036.816 (0) Examining (for databases) backup set with group_id=0, nonce=d24953e1aeef, datestamp=1713974307 (Apr 24 2024 15:58:27)
+0036.816 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0036.818 (0) Number of backup sets in history: 2; groups (files): 1
+0036.820 (0) Examining (for files) backup set with nonce=442430f16d7d, datestamp=1713975444 (Apr 24 2024 16:17:24)
+0036.820 (0) This backup set is the backup set just made, so will not be deleted.
+0036.821 (0) This backup set is the backup set just made, so will not be deleted.
+0036.822 (0) This backup set is the backup set just made, so will not be deleted.
+0036.822 (0) This backup set is the backup set just made, so will not be deleted.
+0036.822 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0036.823 (0) Examining (for files) backup set with nonce=d24953e1aeef, datestamp=1713974307 (Apr 24 2024 15:58:27)
+0036.823 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0036.824 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0036.829 (0) Resume backup (442430f16d7d, 0): finish run
+0036.837 (0) Decremented the semaphore (fd) by 1
+0036.840 (0) Semaphore (fd) unlocked
+0036.842 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0036.853 (0) No email will/can be sent - the user has not configured an email address.
+0036.854 (0) The backup succeeded and is now complete
